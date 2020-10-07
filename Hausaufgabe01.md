@@ -1,4 +1,4 @@
-#Hausaufgabe 1
+# Hausaufgabe 1
 
 *Was versteht man unter Datenbank-Schema?*
 Datenbank-Schema ist definiert als die Menge von Relationenschemata plus globale Integritätsbedingungen.
